@@ -6,7 +6,7 @@
 Welcome!
 ============================================
 
-Find more: :ref:`about`
+.. Find more: :ref:`about`
 
 
 Here is a list of most recent posts:
