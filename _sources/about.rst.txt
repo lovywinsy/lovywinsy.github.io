@@ -4,5 +4,4 @@
 About me.
 ============================
 
-The world wants to know more about you.
-
+Hi, I'm Lovywinsy. You can find me on `Twitter <https://twitter.com/lovywinsy>`__, `Github <https://github.com/lovywinsy>`__.
