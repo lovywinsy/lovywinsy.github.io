@@ -2,57 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://lovywinsy.github.io/</id>
   <title>Lost my pieces</title>
-  <updated>2022-02-10T09:53:53.738726+00:00</updated>
+  <updated>2022-02-14T09:50:23.542401+00:00</updated>
   <link href="https://lovywinsy.github.io/"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.20">ABlog</generator>
   <entry>
-    <id>https://lovywinsy.github.io/source/engineer_not_developer/</id>
+    <id>https://lovywinsy.github.io/source/1/</id>
     <title>Engineer not Developer</title>
     <updated>2020-11-21T00:00:00+08:00</updated>
     <content type="html">&lt;p&gt;最近去了个为期一周的training，因为PPT课件来自于合作的咨询公司，印象最深的就是负责的同事每次讲课遇到developer这个词时，都会说：“如果换我来做，肯定会使用engineer”。想来他估计觉得developer/programmer这样的title间接定义了他人的工作内容，有不礼貌的成分，那他也许知道国内的另外一种叫法。。&lt;/p&gt;
 </content>
-    <link href="https://lovywinsy.github.io/source/engineer_not_developer/" rel="alternate"/>
+    <link href="https://lovywinsy.github.io/source/1/" rel="alternate"/>
     <summary>最近去了个为期一周的training，因为PPT课件来自于合作的咨询公司，印象最深的就是负责的同事每次讲课遇到developer这个词时，都会说：“如果换我来做，肯定会使用engineer”。想来他估计觉得developer/programmer这样的title间接定义了他人的工作内容，有不礼貌的成分，那他也许知道国内的另外一种叫法。。</summary>
     <published>2020-11-21T00:00:00+08:00</published>
   </entry>
   <entry>
-    <id>https://lovywinsy.github.io/source/a_hand/</id>
-    <title>一点小忙</title>
+    <id>https://lovywinsy.github.io/source/2/</id>
+    <title>勿以善小而不为</title>
     <updated>2020-12-01T00:00:00+08:00</updated>
     <content type="html">&lt;p&gt;中午在五楼小花园外发呆的时候遇到一个保洁阿姨，问了我一个关于手机支付的问题，大意是别人帮她操作用手机挂了一个核酸检测的号，但是她印象里名字输错了，觉得很困惑又不知从何验证。甚至搞不清用什么App下的单，只知道是微信最终付款，账单里也没有显示付款方的名称。&lt;/p&gt;
 </content>
-    <link href="https://lovywinsy.github.io/source/a_hand/" rel="alternate"/>
+    <link href="https://lovywinsy.github.io/source/2/" rel="alternate"/>
     <summary>中午在五楼小花园外发呆的时候遇到一个保洁阿姨，问了我一个关于手机支付的问题，大意是别人帮她操作用手机挂了一个核酸检测的号，但是她印象里名字输错了，觉得很困惑又不知从何验证。甚至搞不清用什么App下的单，只知道是微信最终付款，账单里也没有显示付款方的名称。</summary>
     <published>2020-12-01T00:00:00+08:00</published>
   </entry>
   <entry>
-    <id>https://lovywinsy.github.io/source/2021_new_start/</id>
-    <title>新的开始</title>
+    <id>https://lovywinsy.github.io/source/3/</id>
+    <title>2021 新年计划</title>
     <updated>2021-02-01T00:00:00+08:00</updated>
     <content type="html">&lt;p&gt;新的一年已经过去了一个月，才想起来写点东西，随意记录一下过去一段日子的，能想起来的，所作所为吧。&lt;/p&gt;
 </content>
-    <link href="https://lovywinsy.github.io/source/2021_new_start/" rel="alternate"/>
+    <link href="https://lovywinsy.github.io/source/3/" rel="alternate"/>
     <summary>新的一年已经过去了一个月，才想起来写点东西，随意记录一下过去一段日子的，能想起来的，所作所为吧。</summary>
     <published>2021-02-01T00:00:00+08:00</published>
   </entry>
   <entry>
-    <id>https://lovywinsy.github.io/source/feed_dog_tips/</id>
+    <id>https://lovywinsy.github.io/source/5/</id>
     <title>育狗指南</title>
     <updated>2021-06-30T00:00:00+08:00</updated>
     <content type="html">&lt;p&gt;霏霏马上要1岁4个月了，在这个有一点莫名其妙的夜晚，我打算记录一些关于养狗的琐碎事务（大概会按照淘宝购物时间线来梳理。&lt;/p&gt;
 </content>
-    <link href="https://lovywinsy.github.io/source/feed_dog_tips/" rel="alternate"/>
+    <link href="https://lovywinsy.github.io/source/5/" rel="alternate"/>
     <summary>霏霏马上要1岁4个月了，在这个有一点莫名其妙的夜晚，我打算记录一些关于养狗的琐碎事务（大概会按照淘宝购物时间线来梳理。</summary>
     <published>2021-06-30T00:00:00+08:00</published>
   </entry>
   <entry>
-    <id>https://lovywinsy.github.io/source/2022_start_planning/</id>
+    <id>https://lovywinsy.github.io/source/4/</id>
     <title>2022 新年计划</title>
     <updated>2022-01-01T00:00:00+08:00</updated>
     <content type="html">&lt;p&gt;梳理下新年目标&lt;/p&gt;
 </content>
-    <link href="https://lovywinsy.github.io/source/2022_start_planning/" rel="alternate"/>
+    <link href="https://lovywinsy.github.io/source/4/" rel="alternate"/>
     <summary>梳理下新年目标</summary>
     <published>2022-01-01T00:00:00+08:00</published>
   </entry>
