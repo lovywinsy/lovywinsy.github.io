@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>https://lovywinsy.github.io/</id>
   <title>Lost my pieces</title>
-  <updated>2022-02-14T09:52:02.115793+00:00</updated>
+  <updated>2022-02-15T09:53:42.736115+00:00</updated>
   <link href="https://lovywinsy.github.io/"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.20">ABlog</generator>
@@ -55,5 +55,15 @@
     <link href="https://lovywinsy.github.io/source/5/" rel="alternate"/>
     <summary>梳理下新年目标</summary>
     <published>2022-01-01T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://lovywinsy.github.io/source/6/</id>
+    <title>假分数原理</title>
+    <updated>2022-02-15T00:00:00+08:00</updated>
+    <content type="html">&lt;p&gt;我最近在不同场合发现了一个共通的原理，如果把期望值类比为分母，实际值比做分子。当实际高于期望时会带来更多的正面效应，例如：&lt;/p&gt;
+</content>
+    <link href="https://lovywinsy.github.io/source/6/" rel="alternate"/>
+    <summary>我最近在不同场合发现了一个共通的原理，如果把期望值类比为分母，实际值比做分子。当实际高于期望时会带来更多的正面效应，例如：</summary>
+    <published>2022-02-15T00:00:00+08:00</published>
   </entry>
 </feed>
