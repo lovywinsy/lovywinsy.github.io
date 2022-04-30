@@ -1,15 +1,14 @@
-
-勿以善小而不为
-=================
+A hand to the old ones
+==================================
 
 .. post:: Dec 01, 2020
    :tags:
    :category:
 
-中午在五楼小花园外发呆的时候遇到一个保洁阿姨，问了我一个关于手机支付的问题，大意是别人帮她操作用手机挂了一个核酸检测的号，但是她印象里名字输错了，觉得很困惑又不知从何验证。甚至搞不清用什么App下的单，只知道是微信最终付款，账单里也没有显示付款方的名称。
+When I was in a daze outside the small garden on the fifth floor at noon, I met an auntie cleaning and asked me a question about mobile payment, to the effect that someone helped her to operate a mobile phone with a nucleic acid test number, but she doesn't sure about the hospital name and want to verify it. She can't even figure out what app she used to place the order and only know that the final payment was made by WeChat, but the details of the payer was not displayed in the bill.
 
-一般遇到这种路人求助，我都是习惯给给口头建议，实在不确定就礼貌说“我确实也不清楚”，因为你想要尽心帮她，几乎难以避免的要去操作别人的手机，就算是无心之过，或者别人完全不计较，也容易不小心看到别人的隐私信息。后面她听从我的建议打了提示的客服电话，一如既往的无人接听，看到她焦虑的样子，忽然让我想到前几天看过的两个关于 **感恩节当天哈尔滨工业大学宿管阿姨** 和 **北京出租车司机送生日乘客回公司** 的新闻。
+Usually, when I encounter this kind of passerby asking for help, I am used to giving verbal advice firstly. If I am not sure, I politely say `I really don't know`, because if you want to help her with all your heart, it is almost inevitable to operate other people's mobile phones. Even if it is an unintentional fault, or others don't care about it at all, it is easy to accidentally see other people's private information. Later, she followed my suggestion and called the prompt customer service phone. As always, no one answered. Seeing her anxious look, I suddenly thought of the some stories about the troubles when old people use mobile devices I read a few days ago.
 
-最后有些心软，连蒙带猜帮她检查了下最近使用的小程序，大概就是浦东新区人民医院的名字叫浦人民云医院，她的注册名字别人似乎打错了字，直到她看到自己的订单和发票，才算放下了心，和我说：“你们这些有文化的人真好”。
+In the end, she was a little soft-hearted. I suggested that she check the recently used applet through the history. Finally, her registered name seemed to be a typo. She didn't feel relieved until she saw her order and invoice, and told me: `It's so nice of you literate people`.
 
-老实说这结论让我略有些猝不及防。
+To be honest, this conclusion caught me a little off guard.
