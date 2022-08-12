@@ -1,89 +1,87 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://lovywinsy.github.io/</id>
   <title>Lost my pieces</title>
-  <updated>2022-04-30T17:39:59.904188+00:00</updated>
+  <updated>2022-08-12T13:45:32.044905+00:00</updated>
   <link href="https://lovywinsy.github.io/"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
-  <generator uri="https://ablog.readthedocs.org/" version="0.10.20">ABlog</generator>
+  <generator uri="https://ablog.readthedocs.org/" version="0.10.29">ABlog</generator>
   <entry>
     <id>https://lovywinsy.github.io/source/1/</id>
     <title>Engineer not Developer</title>
     <updated>2020-11-21T00:00:00+08:00</updated>
-    <content type="html">&lt;p&gt;I have attended a one-week training about TDD, one of the most impressed thing is everytime when we said &lt;cite&gt;developer&lt;/cite&gt; the trainer would correct it with &lt;cite&gt;engineer&lt;/cite&gt;.&lt;/p&gt;
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;I have attended a one-week training about TDD, one of the most impressed thing is everytime when we said &lt;cite&gt;developer&lt;/cite&gt; the trainer would correct it with &lt;cite&gt;engineer&lt;/cite&gt;.&lt;/p&gt;
+&lt;/div&gt;
 </content>
     <link href="https://lovywinsy.github.io/source/1/" rel="alternate"/>
     <summary>I have attended a one-week training about TDD, one of the most impressed thing is everytime when we said developer the trainer would correct it with engineer.</summary>
+    <category term=""/>
     <published>2020-11-21T00:00:00+08:00</published>
   </entry>
   <entry>
     <id>https://lovywinsy.github.io/source/2/</id>
     <title>A hand to the old ones</title>
     <updated>2020-12-01T00:00:00+08:00</updated>
-    <content type="html">&lt;p&gt;When I was in a daze outside the small garden on the fifth floor at noon, I met an auntie cleaning and asked me a question about mobile payment, to the effect that someone helped her to operate a mobile phone with a nucleic acid test number, but she doesn’t sure about the hospital name and want to verify it. She can’t even figure out what app she used to place the order and only know that the final payment was made by WeChat, but the details of the payer was not displayed in the bill.&lt;/p&gt;
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;When I was in a daze outside the small garden on the fifth floor at noon, I met an auntie cleaning and asked me a question about mobile payment, to the effect that someone helped her to operate a mobile phone with a nucleic acid test number, but she doesn’t sure about the hospital name and want to verify it. She can’t even figure out what app she used to place the order and only know that the final payment was made by WeChat, but the details of the payer was not displayed in the bill.&lt;/p&gt;
+&lt;/div&gt;
 </content>
     <link href="https://lovywinsy.github.io/source/2/" rel="alternate"/>
     <summary>When I was in a daze outside the small garden on the fifth floor at noon, I met an auntie cleaning and asked me a question about mobile payment, to the effect that someone helped her to operate a mobile phone with a nucleic acid test number, but she doesn’t sure about the hospital name and want to verify it. She can’t even figure out what app she used to place the order and only know that the final payment was made by WeChat, but the details of the payer was not displayed in the bill.</summary>
+    <category term=""/>
     <published>2020-12-01T00:00:00+08:00</published>
   </entry>
   <entry>
     <id>https://lovywinsy.github.io/source/3/</id>
     <title>2021 新年计划</title>
     <updated>2021-02-01T00:00:00+08:00</updated>
-    <content type="html">&lt;p&gt;新的一年已经过去了一个月，才想起来写点东西，随意记录一下过去一段日子的，能想起来的，所作所为吧。&lt;/p&gt;
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;新的一年已经过去了一个月，才想起来写点东西，随意记录一下过去一段日子的，能想起来的，所作所为吧。&lt;/p&gt;
+&lt;/div&gt;
 </content>
     <link href="https://lovywinsy.github.io/source/3/" rel="alternate"/>
     <summary>新的一年已经过去了一个月，才想起来写点东西，随意记录一下过去一段日子的，能想起来的，所作所为吧。</summary>
+    <category term=""/>
     <published>2021-02-01T00:00:00+08:00</published>
   </entry>
   <entry>
     <id>https://lovywinsy.github.io/source/4/</id>
     <title>育狗指南</title>
     <updated>2021-06-30T00:00:00+08:00</updated>
-    <content type="html">&lt;p&gt;霏霏马上要1岁4个月了，在这个有一点莫名其妙的夜晚，我打算记录一些关于养狗的琐碎事务（大概会按照淘宝购物时间线来梳理。&lt;/p&gt;
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;霏霏马上要1岁4个月了，在这个有一点莫名其妙的夜晚，我打算记录一些关于养狗的琐碎事务（大概会按照淘宝购物时间线来梳理。&lt;/p&gt;
+&lt;/div&gt;
 </content>
     <link href="https://lovywinsy.github.io/source/4/" rel="alternate"/>
     <summary>霏霏马上要1岁4个月了，在这个有一点莫名其妙的夜晚，我打算记录一些关于养狗的琐碎事务（大概会按照淘宝购物时间线来梳理。</summary>
+    <category term=""/>
     <published>2021-06-30T00:00:00+08:00</published>
   </entry>
   <entry>
     <id>https://lovywinsy.github.io/source/5/</id>
     <title>2022 新年计划</title>
     <updated>2022-01-01T00:00:00+08:00</updated>
-    <content type="html">&lt;p&gt;梳理下新年目标&lt;/p&gt;
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;梳理下新年目标&lt;/p&gt;
+&lt;/div&gt;
 </content>
     <link href="https://lovywinsy.github.io/source/5/" rel="alternate"/>
     <summary>梳理下新年目标</summary>
+    <category term=""/>
     <published>2022-01-01T00:00:00+08:00</published>
   </entry>
   <entry>
     <id>https://lovywinsy.github.io/source/6/</id>
     <title>假分数原理</title>
     <updated>2022-02-15T00:00:00+08:00</updated>
-    <content type="html">&lt;p&gt;我最近在不同场合发现了一个共通的原理，如果把期望值类比为分母，实际值比做分子。当实际高于期望时会带来更多的正面效应，例如：&lt;/p&gt;
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;我最近在不同场合发现了一个共通的原理，如果把期望值类比为分母，实际值比做分子。当实际高于期望时会带来更多的正面效应，例如：&lt;/p&gt;
+&lt;/div&gt;
 </content>
     <link href="https://lovywinsy.github.io/source/6/" rel="alternate"/>
     <summary>我最近在不同场合发现了一个共通的原理，如果把期望值类比为分母，实际值比做分子。当实际高于期望时会带来更多的正面效应，例如：</summary>
+    <category term=""/>
     <published>2022-02-15T00:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>https://lovywinsy.github.io/source/7/</id>
-    <title>避免家庭矛盾的技巧</title>
-    <updated>2022-02-15T00:00:00+08:00</updated>
-    <content type="html">&lt;p&gt;最近围绕厨房有两次家庭冲突的火苗：（当然实际情况会较描述更为复杂曲折一些&lt;/p&gt;
-</content>
-    <link href="https://lovywinsy.github.io/source/7/" rel="alternate"/>
-    <summary>最近围绕厨房有两次家庭冲突的火苗：（当然实际情况会较描述更为复杂曲折一些</summary>
-    <published>2022-02-15T00:00:00+08:00</published>
-  </entry>
-  <entry>
-    <id>https://lovywinsy.github.io/source/8/</id>
-    <title>Upgrade my computer</title>
-    <updated>2022-04-30T00:00:00+08:00</updated>
-    <content type="html">&lt;p&gt;I have upgraded my desktop computer before the lock down in Shanghai about two months ago, now I want to record the ideas and process at that time.&lt;/p&gt;
-</content>
-    <link href="https://lovywinsy.github.io/source/8/" rel="alternate"/>
-    <summary>I have upgraded my desktop computer before the lock down in Shanghai about two months ago, now I want to record the ideas and process at that time.</summary>
-    <published>2022-04-30T00:00:00+08:00</published>
   </entry>
 </feed>
