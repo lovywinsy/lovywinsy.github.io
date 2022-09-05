@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://lovywinsy.github.io/</id>
   <title>Lost my pieces</title>
-  <updated>2022-08-16T14:45:24.372982+00:00</updated>
+  <updated>2022-09-05T23:39:04.993194+00:00</updated>
   <link href="https://lovywinsy.github.io/"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.29">ABlog</generator>
   <entry>
     <id>https://lovywinsy.github.io/source/20201121/</id>
-    <title>Engineer not Developer</title>
+    <title>Engineer not developer</title>
     <updated>2020-11-21T00:00:00+08:00</updated>
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
 &lt;p&gt;I have attended a one-week training about TDD, one of the most impressed thing is everytime when we said &lt;cite&gt;developer&lt;/cite&gt; the trainer would correct it with &lt;cite&gt;engineer&lt;/cite&gt;.&lt;/p&gt;
@@ -21,7 +21,7 @@
   </entry>
   <entry>
     <id>https://lovywinsy.github.io/source/20201201/</id>
-    <title>A hand to the old ones</title>
+    <title>A hand to an old woman</title>
     <updated>2020-12-01T00:00:00+08:00</updated>
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
 &lt;p&gt;When I was in a daze outside the small garden on the fifth floor at noon, I met an auntie cleaning and asked me a question about mobile payment, to the effect that someone helped her to operate a mobile phone with a nucleic acid test number, but she doesn’t sure about the hospital name and want to verify it. She can’t even figure out what app she used to place the order and only know that the final payment was made by WeChat, but the details of the payer was not displayed in the bill.&lt;/p&gt;
@@ -73,7 +73,7 @@
   </entry>
   <entry>
     <id>https://lovywinsy.github.io/source/20220430/</id>
-    <title>Upgrade my computer</title>
+    <title>Computer upgrade programme</title>
     <updated>2022-04-30T00:00:00+08:00</updated>
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
 &lt;p&gt;I have upgraded my desktop computer before the lock down in Shanghai about two months ago, now I want to record the ideas and process at that time.&lt;/p&gt;
@@ -83,5 +83,18 @@
     <summary>I have upgraded my desktop computer before the lock down in Shanghai about two months ago, now I want to record the ideas and process at that time.</summary>
     <category term=""/>
     <published>2022-04-30T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://lovywinsy.github.io/source/20220905/</id>
+    <title>Love is wise, hatred is foolish</title>
+    <updated>2022-09-05T00:00:00+08:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;对罗素《留给世人的话》一直很有印象&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://lovywinsy.github.io/source/20220905/" rel="alternate"/>
+    <summary>对罗素《留给世人的话》一直很有印象</summary>
+    <category term=""/>
+    <published>2022-09-05T00:00:00+08:00</published>
   </entry>
 </feed>

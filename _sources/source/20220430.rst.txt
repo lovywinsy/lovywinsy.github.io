@@ -1,5 +1,5 @@
-Upgrade my computer
-========================
+Computer upgrade programme
+==========================
 
 .. post:: Apr 30, 2022
    :tags:
@@ -9,51 +9,51 @@ I have upgraded my desktop computer before the lock down in Shanghai about two m
 
 * CPU
 
-  + ``Intel 12700F``
+  + **Intel 12700F**
 
   + This is one of the Intel's newest high-end CPUs, and the performance is basically overflow for my daily use, but it is said that Windows 11 can fit it better.
 
 * Motherboard
 
-  + ``MSI 660 MORTAR``
+  + **MSI 660 MORTAR**
 
   + One of the top rated and most recommended motherboards out there.
 
 * RAM
 
-  + ``Crucial 16GB×2 White 3200hz``
+  + **Crucial 16GB×2 White 3200hz**
 
   + I am accustomed to using Crucial for RAM, this time a professional told me not to buy green.
 
 * Power Supply
 
-  + ``CoolerMaster V750W GOLD``
+  + **CoolerMaster V750W GOLD**
 
   + SeaSonic might be better, and it is generally believed that gold certification and full module design are more important.
 
 * M2 Hard Disk
 
-  + ``ADATA SX8200PRO 2T``
+  + **ADATA SX8200PRO 2T**
 
   + I already have a Crucial MX500 500GB and a Intel 535 120G, we'd better use SSDs instead of HDDs whenever possible.
 
 * CPU Cooler
 
-  + ``Thermalright AK120``
+  + **Thermalright AK120**
 
 * Graphics Card
 
-  + ``Gainward 3080 12G``
+  + **Gainward 3080 12G**
 
 * Base Unit
 
-  + ``Thermaltake H6 White``
+  + **Thermaltake H6 White**
 
   + This is a super nice and minimalist one with a glass panel on one side.
 
 * Monitor
 
-  + ``DELL U2720QM``
+  + **DELL U2720QM**
 
   + I've had it for two years and I feel like it can still work well for at least 5 years more.
 
