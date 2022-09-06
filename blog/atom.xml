@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://lovywinsy.github.io/</id>
   <title>Lost my pieces</title>
-  <updated>2022-09-05T23:39:04.993194+00:00</updated>
+  <updated>2022-09-06T03:44:41.330174+00:00</updated>
   <link href="https://lovywinsy.github.io/"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.29">ABlog</generator>
@@ -96,5 +96,18 @@
     <summary>对罗素《留给世人的话》一直很有印象</summary>
     <category term=""/>
     <published>2022-09-05T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://lovywinsy.github.io/source/20220906/</id>
+    <title>三十六计桌游篇（1/36）</title>
+    <updated>2022-09-06T00:00:00+08:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;阅读本文需一定的狼人杀知识，否则有几率获得 &lt;em&gt;&amp;gt;雾里看花&amp;lt;&lt;/em&gt; 成就&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://lovywinsy.github.io/source/20220906/" rel="alternate"/>
+    <summary>阅读本文需一定的狼人杀知识，否则有几率获得 &gt;雾里看花&lt; 成就</summary>
+    <category term="Strategy" label="Strategy"/>
+    <published>2022-09-06T00:00:00+08:00</published>
   </entry>
 </feed>
