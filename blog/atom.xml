@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://lovywinsy.github.io/</id>
   <title>Lost my pieces</title>
-  <updated>2022-09-06T03:48:51.169515+00:00</updated>
+  <updated>2022-10-17T16:40:02.131788+00:00</updated>
   <link href="https://lovywinsy.github.io/"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.29">ABlog</generator>
@@ -102,12 +102,25 @@
     <title>三十六计桌游篇（1/36）</title>
     <updated>2022-09-06T00:00:00+08:00</updated>
     <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
-&lt;p&gt;阅读本文需一定的狼人杀知识，否则有几率获得 &lt;em&gt;&amp;gt;雾里看花&amp;lt;&lt;/em&gt; 成就&lt;/p&gt;
+&lt;p&gt;阅读本文需一定的狼人杀知识&lt;/p&gt;
 &lt;/div&gt;
 </content>
     <link href="https://lovywinsy.github.io/source/20220906/" rel="alternate"/>
-    <summary>阅读本文需一定的狼人杀知识，否则有几率获得 &gt;雾里看花&lt; 成就</summary>
+    <summary>阅读本文需一定的狼人杀知识</summary>
     <category term="Strategy" label="Strategy"/>
     <published>2022-09-06T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://lovywinsy.github.io/source/20221017/</id>
+    <title>潦草的梦</title>
+    <updated>2022-10-17T00:00:00+08:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;在我小的时候有过一些印象深刻的梦&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://lovywinsy.github.io/source/20221017/" rel="alternate"/>
+    <summary>在我小的时候有过一些印象深刻的梦</summary>
+    <category term=""/>
+    <published>2022-10-17T00:00:00+08:00</published>
   </entry>
 </feed>
