@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://lovywinsy.github.io/</id>
   <title>Lost my pieces</title>
-  <updated>2022-11-23T05:58:58.101278+00:00</updated>
+  <updated>2022-11-23T06:16:03.178050+00:00</updated>
   <link href="https://lovywinsy.github.io/"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.org/" version="0.10.33">ABlog</generator>
@@ -122,5 +122,18 @@
     <summary>在我小的时候有过一些印象深刻的梦</summary>
     <category term=""/>
     <published>2022-10-17T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://lovywinsy.github.io/source/20221123/</id>
+    <title>最近的成就感</title>
+    <updated>2022-11-23T00:00:00+08:00</updated>
+    <content type="html">&lt;div class="ablog-post-excerpt docutils container"&gt;
+&lt;p&gt;最近有两个很有成就感的事&lt;/p&gt;
+&lt;/div&gt;
+</content>
+    <link href="https://lovywinsy.github.io/source/20221123/" rel="alternate"/>
+    <summary>最近有两个很有成就感的事</summary>
+    <category term=""/>
+    <published>2022-11-23T00:00:00+08:00</published>
   </entry>
 </feed>
