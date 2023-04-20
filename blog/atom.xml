@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://lovywinsy.github.io</id>
-  <title>Lost my pieces</title>
-  <updated>2023-04-20T08:05:07.185493+00:00</updated>
+  <title>Lovywinsy</title>
+  <updated>2023-04-20T08:24:34.187014+00:00</updated>
   <link href="https://lovywinsy.github.io"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.io/" version="0.11.3">ABlog</generator>

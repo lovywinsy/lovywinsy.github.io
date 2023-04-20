@@ -45,4 +45,4 @@
 
 放一张去年冬天，河面溜冰的照片。
 
-.. image:: ../_static/1.jpg
+.. image:: _static/1.jpg

@@ -59,4 +59,4 @@ I have upgraded my desktop computer before the lock down in Shanghai about two m
 
 That's it:
 
-.. image:: ../_static/2.jpeg
+.. image:: _static/2.jpeg
