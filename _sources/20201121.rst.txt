@@ -1,0 +1,12 @@
+Engineer not developer
+======================
+
+.. post:: Nov 21, 2020
+   :tags:
+   :category:
+
+I have attended a one-week training about TDD, one of the most impressed thing is everytime when we said `developer` the trainer would correct it with `engineer`.
+
+Obviously he thought `developer` directly determine the work of others, it's not polite at all.
+
+Compare to `developer`, `engineer` is more accurate to describe what we are. And I believe that he must know another title in China, `Code Farmer`. I have to say it's really a bad title, it's not polite and it will make everyone's living environment worse slowly and unnoticed, but in fact most of us don't really realize it now.

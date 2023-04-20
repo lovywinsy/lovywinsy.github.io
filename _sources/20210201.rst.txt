@@ -1,0 +1,35 @@
+
+2021 新年计划
+===============
+
+.. post:: Feb 01, 2021
+   :tags:
+   :category:
+
+新的一年已经过去了一个月，才想起来写点东西，随意记录一下过去一段日子的，能想起来的，所作所为吧。
+
++ `BioShock: Infinite <https://www.douban.com/game/20499450/>`__ 
+   
+   碍于我的捉急操作，在大概85%进度的时候玩不下去了，空轨和FPS让我很晕，但有句话却是难忘的的：
+
+   + A man chooses, a slave obeys.
+
++ `The Last of Us <https://www.douban.com/game/10794117/>`__ 
+
+   看的 `老戴视频 <https://www.bilibili.com/video/BV1B441137yx>`__ 通关，2013年的作品，很多片段会让人想到从眼下这个被疫情笼罩的世界。
+
++ `The Witcher 3: Wild Hunt <https://www.douban.com/game/21355730/>`__ 
+
+   由于对话不能暂停，耽误了我玩游戏顺路强化英文的梦想，那今年争取玩完吧。。
+
++ `昆仑 <https://book.douban.com/subject/33429491/>`__
+
+   时隔多年又重读了这本书，仍觉得前传的叙事文笔更好一点，因为已知了结局，虽然又一次读完，当年那种人在书中自己就是梁萧的感觉却再也找不到了。但这本书大概是掺着很多记忆，总是能把我从比较差的状态里拉出来。
+
++ `Ablog/Sphinx <https://ablog.readthedocs.io/>`__
+
+   新的博客工具也算收获之一，仅对我而言，Ablog(Sphinx)整体会比Hexo等顺手一点。旧的文章，就永远沉睡在OneDrive上好了。
+
++ **霏霏**
+
+   还是在它一周岁的时候单独写一篇吧，转眼一岁了，有不少值得记录的东西。

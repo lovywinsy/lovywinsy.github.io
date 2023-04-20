@@ -1,0 +1,14 @@
+A hand to an old woman
+======================
+
+.. post:: Dec 01, 2020
+   :tags:
+   :category:
+
+When I was in a daze outside the small garden on the fifth floor at noon, I met an auntie cleaning and asked me a question about mobile payment, to the effect that someone helped her to operate a mobile phone with a nucleic acid test number, but she doesn't sure about the hospital name and want to verify it. She can't even figure out what app she used to place the order and only know that the final payment was made by WeChat, but the details of the payer was not displayed in the bill.
+
+Usually, when I encounter this kind of passerby asking for help, I am used to giving verbal advice firstly. If I am not sure, I politely say `I really don't know`, because if you want to help her with all your heart, it is almost inevitable to operate other people's mobile phones. Even if it is an unintentional fault, or others don't care about it at all, it is easy to accidentally see other people's private information. Later, she followed my suggestion and called the prompt customer service phone. As always, no one answered. Seeing her anxious look, I suddenly thought of the some stories about the troubles when old people use mobile devices I read a few days ago.
+
+In the end, she was a little soft-hearted. I suggested that she check the recently used applet through the history. Finally, her registered name seemed to be a typo. She didn't feel relieved until she saw her order and invoice, and told me: `It's so nice of you literate people`.
+
+To be honest, this conclusion caught me a little off guard.
