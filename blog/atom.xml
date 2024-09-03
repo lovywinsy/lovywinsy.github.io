@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://lovywinsy.github.io</id>
   <title>Lovywinsy</title>
-  <updated>2024-09-03T06:48:00.184965+00:00</updated>
+  <updated>2024-09-03T07:11:20.994435+00:00</updated>
   <link href="https://lovywinsy.github.io"/>
   <link href="https://lovywinsy.github.io/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.io/" version="0.11.11">ABlog</generator>
@@ -44,13 +44,13 @@
   </entry>
   <entry>
     <id>https://lovywinsy.github.io/20220430/</id>
-    <title>Computer upgrade programme</title>
+    <title>电脑升级计划</title>
     <updated>2022-04-30T00:00:00+08:00</updated>
-    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;I have upgraded my desktop computer before the lock down in Shanghai about two months ago, now I want to record the ideas and process at that time.&lt;/p&gt;
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;记录升级电脑时的一些思路。&lt;/p&gt;
 &lt;/p&gt;
 </content>
     <link href="https://lovywinsy.github.io/20220430/"/>
-    <summary>I have upgraded my desktop computer before the lock down in Shanghai about two months ago, now I want to record the ideas and process at that time.</summary>
+    <summary>记录升级电脑时的一些思路。</summary>
     <category term=""/>
     <published>2022-04-30T00:00:00+08:00</published>
   </entry>

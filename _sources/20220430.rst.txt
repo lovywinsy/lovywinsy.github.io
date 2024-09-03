@@ -1,62 +1,62 @@
-Computer upgrade programme
+电脑升级计划
 ==========================
 
 .. post:: Apr 30, 2022
    :tags:
    :category:
 
-I have upgraded my desktop computer before the lock down in Shanghai about two months ago, now I want to record the ideas and process at that time.
+记录升级电脑时的一些思路。
 
 * CPU
 
   + **Intel 12700F**
 
-  + This is one of the Intel's newest high-end CPUs, and the performance is basically overflow for my daily use, but it is said that Windows 11 can fit it better.
+  + 我的日常其实不太需要一个很好的CPU，但是因为它更适配windows11，并且之前一直在用i5，就当作一次尝试。
 
-* Motherboard
+* 主板
 
   + **MSI 660 MORTAR**
 
-  + One of the top rated and most recommended motherboards out there.
+  + 自己配电脑以来就一直在用微星，已经成习惯了。
 
-* RAM
+* 内存
 
-  + **Crucial 16GB×2 White 3200hz**
+  + **英睿达 16GB×2 白色 3200hz**
 
-  + I am accustomed to using Crucial for RAM, this time a professional told me not to buy green.
+  + 看到了不要买绿条的说法，买了更好，至少价格和颜值更好的白条，也是一直用的内存条品牌。
 
-* Power Supply
+* 电源
 
-  + **CoolerMaster V750W GOLD**
+  + **酷冷至尊750w金牌全模组**
 
-  + SeaSonic might be better, and it is generally believed that gold certification and full module design are more important.
+  + 一开始是想买海韵的，后来可能是纠结来纠结去吧。这款大概是平替。
 
 * M2 Hard Disk
 
-  + **ADATA SX8200PRO 2T**
+  + **铠侠 NVMe RC20 1T**
 
-  + I already have a Crucial MX500 500GB and a Intel 535 120G, we'd better use SSDs instead of HDDs whenever possible.
+  + 已经有了MX500（500GB）和一块英特尔535（120G）,买硬盘的原则也很简单，就是选择固态，永远不选机械.
 
-* CPU Cooler
+* CPU 散热器
 
-  + **Thermalright AK120**
+  + **利民 AK120**
 
-* Graphics Card
+* 显卡
 
-  + **Gainward 3080 12G**
+  + **耕升 3080 12G**
 
-* Base Unit
+  + 没错这张卡要7499，而且是在最近太容易买到矿卡，就买了这张新出的3080，选择了比较普通的牌子。
 
-  + **Thermaltake H6 White**
+* 机箱
 
-  + This is a super nice and minimalist one with a glass panel on one side.
+  + **Thermaltake H6 白**
 
-* Monitor
+* 显示器
 
   + **DELL U2720QM**
 
-  + I've had it for two years and I feel like it can still work well for at least 5 years more.
+  + 这显示器已经用了5年了，感觉还能再用10年吧完美无缺。
 
-That's it:
+实物图:
 
 .. image:: _static/2.jpeg
